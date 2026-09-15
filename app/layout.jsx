@@ -1,0 +1,1 @@
+import './globals.css'; export const metadata={title:'Admin Portal'}; export default function Layout({children}){return <html><body>{children}</body></html>}
